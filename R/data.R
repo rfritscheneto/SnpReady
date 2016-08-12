@@ -1,6 +1,6 @@
 #' maize hybrids
 #' 
-#' 50 hybrids of maize genotyped with 500 SNP markers
+#' 50 maize hybrids genotyped with 500 SNP markers
 #'
 #' @rdname maize.hyb 
 #' @name maize.hyb
@@ -26,7 +26,7 @@ NULL
 #' \item{marker: }{identification of SNP markers}
 #' \item{allele.1: }{Allele 1}
 #' \item{allele.2: }{Allele 2}}
-#' @source Lines genotyped from allogamous breeding laboratory - ESALQ/USP \url{http://www.genetica.esalq.usp.br/alogamas/index2.html}
+#' @source Lines genotyped by Allogamous Breeding Laboratory - ESALQ/USP \url{http://www.genetica.esalq.usp.br/alogamas/index2.html}
 #' @keywords datasets; lines
 #' @examples
 #' 
