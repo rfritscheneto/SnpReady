@@ -5,10 +5,9 @@ Authors@R: c(
     person("Italo", "Granato", email="italo.granato@gmail.com", role = c("aut", "cre")),
     person("Roberto", "Fritsche-Neto", email="rfritscheneto@gmail.com", role =c("aut", "ths"))
     )
-Title: A tool to assist breeders in genomic analysis
-Description: A tool created to assist breeders in genomic analysis. It consists
-    of functions for cleaning, summarizing and prepraring genomic data
-    to Genome Selection and Genome Association analysis.
+Title: A tool to assist breeders in quality control and genomic selection analysis
+Description: This tool was created to assist breeders in genomic analysis, since the data reorganization untill build kinship matrixes. Thus, this package has three functions in order to clean, summarize and prepare genomic data
+    to Genome Selection and Genome-Wide Association analysis.
 Depends:
     Matrix,
     matrixcalc
